@@ -1,0 +1,17 @@
+.navbar {
+    border-bottom: 2px solid var(--color-grey);
+    padding: 12px;
+    z-index: 1000;
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    background-color: white;
+}
+
+.navbar > .logo {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 1.3rem;
+    font-family: 'Sofia', serif;
+}

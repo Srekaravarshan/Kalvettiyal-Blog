@@ -1,0 +1,46 @@
+.article_card {
+    border: 2px solid var(--color-grey);
+    border-radius: 20px;
+    padding: 18px;
+    margin-bottom: 1.2rem;
+}
+
+.article_profile {
+    background-color: var(--color-grey);
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+}
+
+.article_top {
+margin-bottom: 12px;
+display: flex;
+
+}
+
+.article_user {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 1rem;
+}
+
+.article_center {
+
+}
+
+.article_name {
+    font-size: 0.8rem;
+    line-height: 0.9;
+}
+
+.article_title {
+    font-size: 1.1rem;
+    margin-bottom: 0.2rem;
+}
+
+.article_desc {
+    /* font-family: 'Po', serif; */
+    font-size: 0.7rem;
+    font-weight: normal;
+    color: rgb(128, 128, 128);
+}
